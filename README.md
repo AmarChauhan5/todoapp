@@ -1,11 +1,11 @@
 # Todo App 
 
-Runs the app in the development mode.\
+
 Open [Todo App](https://amarchauhan5.github.io/todoapp/) to view it in the browser.
 
 
 
-
+## ScreenShot
 <p align="center">
   <a><img src="https://user-images.githubusercontent.com/63333015/145665164-79cee3a4-9aca-46d2-9b38-7b40bb35c933.png" alt="pic" />  </a>
 </p>
